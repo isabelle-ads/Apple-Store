@@ -24,6 +24,7 @@ header {
     z-index: 3;
 }
 
+
 .logo {
     font-family: "Orbitron", sans-serif;
     font-size: 2rem;
@@ -344,4 +345,64 @@ ANIMAÇÃO
 .dot.active {
     background-color: #00f7ff;
     box-shadow: 0 0 10px rgba(0, 247, 255, 0.5);
+}
+
+@media (max-width: 768px) {
+    header {
+        padding: 15px 20px;
+        width: 100%;
+    }
+
+    .logo {
+        font-size: 1.2rem;
+    }
+
+    header nav ul {
+        gap: 15px;
+    }
+
+    header nav ul li {
+        font-size: 0.8rem;
+    }
+
+  
+    .item {
+        flex-direction: column;
+        justify-content: center;
+        padding: 20px;
+    }
+
+    .product-img {
+        width: 100%;
+        height: 40%; 
+    }
+
+    .product-img img {
+        max-width: 60%;
+    }
+
+    .content {
+        width: 100%;
+        padding-right: 0;
+        align-items: center; 
+        text-align: center;
+    }
+
+    .product-name {
+        font-size: 2.2rem;
+        margin-bottom: 10px;
+    }
+
+    .description {
+        font-size: 0.9rem;
+        margin-bottom: 20px;
+    }
+
+    .arrows {
+        width: 95%; 
+    }
+
+    .numbers {
+        font-size: 2rem;
+    }
 }
