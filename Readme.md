@@ -4,7 +4,9 @@ Este projeto é uma **Landing Page imersiva** para uma loja de tecnologia, desen
 
 ---
 
-# 💻🚀 Criado e desenvolvido por Isabelle Fernandes 💜
+# 💻🚀 Criado e desenvolvido 
+
+Por Isabelle Fernandes 💜
 
 Desenvolvedora pricipal do projeto - para fins de estudo pessoal.
 
