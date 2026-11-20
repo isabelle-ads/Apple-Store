@@ -4,7 +4,7 @@ Este projeto é uma **Landing Page imersiva** para uma loja de tecnologia, desen
 
 ---
 
-## 🚀 Funcionalidades
+## 🚀 Funcionalidades do Sistema
 
 * **Slider Interativo:** Navegação entre produtos com transições suaves e efeitos de profundidade.
 * **Animações de Entrada:** Títulos, descrições e imagens possuem animações sincronizadas que ocorrem toda vez que um item é selecionado.
